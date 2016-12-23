@@ -1,0 +1,14 @@
+{
+  "name": "nextjs-mobx",
+  "version": "1.0.0",
+  "description": "Sample of nextjs 2.x-beta failing with mobx",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "mobx": "2.7.0",
+    "next": "2.0.0-beta.1"
+  }
+}
